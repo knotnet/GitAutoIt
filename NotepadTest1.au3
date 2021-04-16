@@ -11,3 +11,6 @@ Send("{Enter}")
 WinWaitActive("MyFirstAutoIT.txt - Notepad")
 WinClose("MyFirstAutoIT Script Test.txt - Notepad")
 Run("C:\Windows\System32\calc.exe")
+#comments-start
+    what the hell
+#comments-end
